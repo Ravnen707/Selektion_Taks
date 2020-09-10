@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Iteration_Taks.iml" filepath="$PROJECT_DIR$/Iteration_Taks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Selektion/Selektion.iml" filepath="$PROJECT_DIR$/Selektion/Selektion.iml" />
+    </modules>
+  </component>
+</project>
